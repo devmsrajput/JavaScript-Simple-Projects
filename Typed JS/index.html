@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TYPED JS</title>
+    <style>
+      .typer::after {
+        content: "";
+        margin-left: 2px;
+        width: 5px;
+        height: 38px;
+        background-color: black;
+        position: absolute;
+        visibility: var(--typerAfterVisibility, visible);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="main">
+        <h1>Hi, I'm <span class="typer"></span></h1>
+      </div>
+    </div>
+
+    <script src="main.js"></script>
+  </body>
+</html>
