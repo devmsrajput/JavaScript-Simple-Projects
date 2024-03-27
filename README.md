@@ -6,7 +6,7 @@
   > `const main` is the selector for __HTML__ element, where we have to apply this animation. <br><br>
   > `const textArray` contains all texts over which we have to perform iterations. <br><br>
   > `const delay` This is delay time, if the writing stream gets finished then after how much delay the removal stream would start. <br><br>
-  > `const writeSpeed` How fast will the writing/removal stream go on. <br><br>
+  > `const writeSpeed` How fast the writing/removal stream will go on. <br><br>
   > `const beepSpeed` It sets the speed of the cursor that blinks next to stream texts.
 + __[Project 1](https://devmsrajput.github.io/JavaScript-Simple-Projects/project1/)__
 + __[Project 2](https://devmsrajput.github.io/JavaScript-Simple-Projects/project2/)__
