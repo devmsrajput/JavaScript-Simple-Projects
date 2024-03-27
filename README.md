@@ -2,6 +2,7 @@
 
 ## Following are the links of hosted projects:
 + __[Typed JS](https://devmsrajput.github.io/JavaScript-Simple-Projects/Typed%20JS/)__
+  <br><br>
   > `const main` is the selector for __HTML__ element, where we have to apply this animation. <br><br>
   > `const textArray` contains all texts over which we have to perform iterations. <br><br>
   > `const delay` This is delay time, if the writing stream gets finished then after how much delay the removal stream would start. <br><br>
