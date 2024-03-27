@@ -7,7 +7,8 @@
 + __[Project 3](https://devmsrajput.github.io/JavaScript-Simple-Projects/project3/)__
 
 ***
+__If you want to clone this repository `code`:__
 ```
-  //If you want to clone this repo:
+  // FROM CLI
   gh repo clone devmsrajput/JavaScript-Simple-Projects
 ```
