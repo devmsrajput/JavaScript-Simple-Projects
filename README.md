@@ -5,3 +5,6 @@
 + __[Project 1](https://devmsrajput.github.io/JavaScript-Simple-Projects/project1/)__
 + __[Project 2](https://devmsrajput.github.io/JavaScript-Simple-Projects/project2/)__
 + __[Project 3](https://devmsrajput.github.io/JavaScript-Simple-Projects/project3/)__
+
+  //If you want to clone this repo:
+  gh repo clone devmsrajput/JavaScript-Simple-Projects
