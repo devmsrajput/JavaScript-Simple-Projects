@@ -1,5 +1,4 @@
-<h1>Hi, I've created simple <i>JavaScript</i> projects</h1>
-<br/>
-<br/>
+# I've created simple _JavaScript_ projects
 
-Visit <a href='https://devmsrajput.github.io/JavaScript-Simple-Projects/Typed%20JS/'>Typed JS</a>
+### Following are the links of hosted projects:
+[Typed JS]('https://devmsrajput.github.io/JavaScript-Simple-Projects/Typed%20JS/')
