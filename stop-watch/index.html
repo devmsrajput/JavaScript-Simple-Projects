@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STOP WATCH</title>
+    <style>
+        .container{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 50vh;
+        }
+        .numbox{
+            margin-bottom: 10px;
+        }
+        .btnbox{
+            display: flex;
+            justify-content: center;
+        }
+        .btn{
+            margin-left: 10px;
+        }
+        .bt{
+            font-size: large;
+            padding-left: 15px;
+            padding-right: 15px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            background-color: rgb(51, 51, 51);
+            color: aliceblue;
+        }
+    </style>
+</head>
+<body style="background-color: black; color: white;">
+    <div class="container">
+        <div class="numbox">
+            <h1 class="timer">0</h1>
+        </div>
+        <div class="btnbox">
+            <div class="btn">
+                <button class="bt start">Start</button>
+            </div>
+            <div class="btn">
+                <button class="bt stop">Stop</button>
+            </div>
+            <div class="btn">
+                <button class="bt reset">Reset Timer</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="./main.js"></script>
+</body>
+</html>
